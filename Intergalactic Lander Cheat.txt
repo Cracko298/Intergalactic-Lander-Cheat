@@ -1,0 +1,43 @@
+=========================================================== Unlock all levels =========================================================== 
+
+coolmath_intergalactic_lander_levels
+
+[{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true},{"unlocked":true,"stars":3,"lootCollected":true}]
+
+=========================================================== Infinite Lander Crystals =========================================================== 
+
+coolmath_intergalactic_lander_crystals
+
+1e+54
+
+=========================================================== Unlock All Ships (Even The Darth Vader One) =========================================================== 
+
+coolmath_intergalactic_lander_ships
+
+[{"price":0,"unlocked":true},{"price":250,"unlocked":true},{"price":1000,"unlocked":true},{"price":2500,"unlocked":true},{"price":5000,"unlocked":true},{"price":10000,"unlocked":true},{"price":20420,"unlocked":true},{"price":36200,"unlocked":true},{"price":50000,"unlocked":true},{"price":9999999,"unlocked":true}]
+
+=========================================================== Select Darth Vader Lander =========================================================== 
+
+coolmath_intergalactic_lander_current_ship
+
+8
+
+=========================================================== Sound On =========================================================== 
+
+coolmath_intergalactic_lander_volumeSound
+
+1
+
+=========================================================== Music On =========================================================== 
+
+coolmath_intergalactic_lander_volumeMusic
+
+0.5
+
+=========================================================== End of Cheat List ===========================================================
+
+Code written by: Phinehas Beresford (Crako)
+
+Github Account: https://github.com/Cracko298
+
+Have Fun ;)
