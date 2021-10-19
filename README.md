@@ -11,6 +11,8 @@ Feature List:
 - 1E+54 Lander Crystals
 - Darth Vader ship unlocked
 
+*Note: If you collect any Lander Crystal's it will set the value back to 0 instead of adding to your total amount.
+
 This was a pain in the ass to get done. But hey thats what save editing is about right?
 
 Otherwise if you know what you're doing please use this cheat, Customize it for all I care. (Probably nothing to customize though).
